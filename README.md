@@ -3,12 +3,13 @@
 | Project No | Project Name |
 | ---------- | ------------ |
 | Project 1  | Tic Tac Toe  |
+| Project 2  | Tasker       |
+
+# Checkout/switch to branch project wise
 
 ```sh
-     git checkout p1
+    git checkout p1
 ```
-
-| Project 2  | Tasker       |
 
 ```sh
    git checkout p2
